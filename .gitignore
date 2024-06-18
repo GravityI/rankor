@@ -1,2 +1,8 @@
-#Ignore file containing the Discord Auth Token
-server_info.json
+#Ignore config file
+config.json
+
+#Ignore feature testing bot file
+testbot.py
+
+#Ignore pycache
+__pycache__
